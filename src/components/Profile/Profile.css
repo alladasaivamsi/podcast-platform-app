@@ -1,0 +1,18 @@
+.logoutBtn {
+  padding: 0.5rem 1rem;
+  font-size: 1.3rem;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.logoutBtn:hover {
+  color: black;
+  background-color: #fff;
+}
+
+.profileData {
+  margin-top: 6rem;
+}

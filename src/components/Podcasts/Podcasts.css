@@ -1,0 +1,43 @@
+.input-wrapper {
+  margin-top: 6rem;
+}
+
+.podcastForm {
+  margin-top: 3rem;
+}
+
+input {
+  width: 70vw;
+  height: 1.5rem;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+}
+
+.title,
+.description,
+.displayImage {
+  border: 2px solid white;
+  width: 70vw;
+  margin-bottom: 2.5rem;
+}
+
+.podcastBtn {
+  padding: 0.5rem 1rem;
+  font-size: 1.3rem;
+  color: white;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.podcastBtn:hover {
+  color: black;
+  background-color: #fff;
+}

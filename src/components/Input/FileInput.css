@@ -1,0 +1,27 @@
+.custom-input {
+  display: block;
+  width: 70vw;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+}
+
+.fileInput {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.label-input {
+  color: var(--purple-grey);
+}
+
+.active1 {
+  border-color: green;
+  color: green;
+}
